@@ -54,4 +54,3 @@ while True:
     map.printMap()
     input()
     map.regenerate()
-
