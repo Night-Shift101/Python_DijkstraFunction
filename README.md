@@ -126,7 +126,8 @@ Feel free to submit issues, fork the repository, and create pull requests for an
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](LICENSE.md).
 
 ## Acknowledgments
 
